@@ -75,10 +75,9 @@ Hello! 👋 I'm Maxwell Irowa, a senior at Georgia State University majoring in 
 - Playing the piano  
 - Exploring outdoors  
 - Listening to podcasts  
-- Golf
+
 ---
 
 Feel free to connect with me via:  
 - **Email:** [maxwellirowa1@gmail.com](mailto:maxwellirowa1@gmail.com)  
 - **LinkedIn:** [Maxwell Irowa](https://www.linkedin.com/in/maxwellirowa)  
-
