@@ -1,8 +1,5 @@
 # Maxwell Irowa
 
-![Maxwell Irowa](assets/mirowa1@student.gsu.edu-0.jpg)
-
-
 ## About Me
 Hello! 👋 I'm Maxwell Irowa, a senior at Georgia State University majoring in Computer Information Systems with a concentration in Data Analytics. I have a strong passion for solving complex problems, analyzing data, and building innovative solutions. I’m enthusiastic about gaining hands-on experience in **data science**, **cybersecurity**, and **backend development** as I work toward my future career in technology.
 
