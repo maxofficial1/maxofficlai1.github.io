@@ -1,6 +1,6 @@
 # Maxwell Irowa
 
-![Maxwell Irowa](assets/img/mirowa1@student.gsu.edu-0.jpg)
+![Maxwell Irowa](/assets/img/mirowa1@student.gsu.edu-0.jpg)
 
 
 ## About Me
